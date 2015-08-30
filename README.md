@@ -51,3 +51,44 @@ The broad analytics steps are listed below. We would showcase **some of them** i
   - Types of communication - Exploration vs. Explanation
   - Explanation: Telling a story with data
   - Exploration: Building an interface for people to find stories
+  
+## Prerequisites
+* Basics of Python. User should know how to write functions; read in a text file(csv, txt, fwf) and parse them; conditional and looping constructs; using standard libraries like os, sys; lists, list comprehension, dictionaries
+* It is good to know basics of the following:
+    * Numpy
+    * Scipy
+    * Pandas
+    * Matplotlib
+    * Seaborn
+    * bokeh
+    * vincent
+    * folium
+    * sklearn
+    * IPython and IPython notebook - Everything here would be an IPython notebook
+* Software Requirements
+    * Python 2.7
+    * git - so that this repo can be cloned :)  
+    * virtualenv
+    * Libraries from *requirements.txt*
+
+## Optional
+Users could choose to install Anaconda, if they want. If using Anaconda or Enthought, please ensure that all libraries listed in the requirements.txt are installed.
+
+## Setup Guide
+
+####Clone the repository
+    $ git clone https://github.com/amitkaps/weed.git
+
+####Create a virtual environment & activate
+    $ cd weed
+    $ virtualenv env
+    $ source env/bin/activate
+
+####Install reqirements from requirements file
+    $ pip install -r requirements.txt
+
+####Note: Make sure you have libraries for png & freetype.
+Ubuntu users can install the below
+
+    apt-get install libfreetype6-dev
+    apt-get install libpng-dev
