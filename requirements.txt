@@ -42,5 +42,5 @@ tornado==4.2.1
 traitlets==4.0.0
 vincent==0.4.4
 folium==0.1.5
-bokeh=0.9.3
+bokeh==0.9.3
 statsmodels=0.6.1
