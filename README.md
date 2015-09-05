@@ -92,3 +92,7 @@ Ubuntu users can install the below
 
     apt-get install libfreetype6-dev
     apt-get install libpng-dev
+
+### Mac users
+    brew install freetype
+    brew install libpng
