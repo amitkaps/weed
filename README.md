@@ -9,6 +9,7 @@ The broad analytics steps are listed below. We would showcase **some of them** i
   - What is data analysis?
   - What type of questions can be answered?
   - Developing a hypothesis drive approach.
+  - Making the case.
 
 2. **Acquire** - "Data is the new oil"
   - Download from an internal system
