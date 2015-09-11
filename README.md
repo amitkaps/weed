@@ -36,8 +36,8 @@ The broad analytics steps are listed below. We would showcase **some of them** i
 4. **Explore** - "I don't know, what I don't know"
   - Why do visual exploration?
   - Understand Data Structure & Types
-  - Explore one variable graphs - (Quantitative, Categorical)
-  - Explore two variable graphs - (Q & Q, Q & C, C & C)
+  - Explore single variable graphs - (Quantitative, Categorical)
+  - Explore dual variable graphs - (Q & Q, Q & C, C & C)
   - Explore multi variable graphs
 
 5. **Model** - "All models are wrong, Some of them are useful"
