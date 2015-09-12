@@ -9,6 +9,7 @@ The broad analytics steps are listed below. We would showcase **some of them** i
   - What is data analysis?
   - What type of questions can be answered?
   - Developing a hypothesis drive approach.
+  - Making the case.
 
 2. **Acquire** - "Data is the new oil"
   - Download from an internal system
@@ -35,8 +36,8 @@ The broad analytics steps are listed below. We would showcase **some of them** i
 4. **Explore** - "I don't know, what I don't know"
   - Why do visual exploration?
   - Understand Data Structure & Types
-  - Explore one variable graphs - (Quantitative, Categorical)
-  - Explore two variable graphs - (Q & Q, Q & C, C & C)
+  - Explore single variable graphs - (Quantitative, Categorical)
+  - Explore dual variable graphs - (Q & Q, Q & C, C & C)
   - Explore multi variable graphs
 
 5. **Model** - "All models are wrong, Some of them are useful"
